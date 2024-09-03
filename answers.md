@@ -50,3 +50,11 @@ Date:   Tue Sep 3 16:45:49 2024 -0400
     
 Answer 9:
 
+Answer 10:
+No, my changes did not appear locally
+
+Answer 11:
+
+Answer 12:
+Yes, it now says CS2400, section 100
+
